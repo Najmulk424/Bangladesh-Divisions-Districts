@@ -23,6 +23,25 @@
 "Durgapur",
 "Greater Hazratpur"
             ]
+        },
+ 
+     {      "division_id": "6",
+			"district_id": "32",
+			"upazila": "Badarganj",
+			
+            "unions": [
+ Radhanagar,
+ Gopinathpur,
+ Madhupur,
+ Qutubpur,
+ Bishnapur,
+Kalupara,
+Lohanipara,
+Gopalpur,
+Damodarpur, 
+Ramnathpur
+            ]
         }
+        
     ]
 }
