@@ -5,43 +5,41 @@
             "district_id": "32",
             "upazila": "Mithapukur",
             "unions": [
- "Khoragach",
-"Ranipukur",
-"Pyraband",
-"Bhangni",
-"Balarhat",
-"Kafrikhal",
-"Latibpur",
-"Chengmari",
-"Mynpur",
-"Balua Masimpur",
-"Barbala",
-"Mirzapur",
-"Imadpur",
-"Milanpur",
-"Gopalpur",
-"Durgapur",
-"Greater Hazratpur"
+                "Khoragach",
+                "Ranipukur",
+                "Pyraband",
+                "Bhangni",
+                "Balarhat",
+                "Kafrikhal",
+                "Latibpur",
+                "Chengmari",
+                "Mynpur",
+                "Balua Masimpur",
+                "Barbala",
+                "Mirzapur",
+                "Imadpur",
+                "Milanpur",
+                "Gopalpur",
+                "Durgapur",
+                "Greater Hazratpur"
             ]
         },
- 
-     {      "division_id": "6",
-			"district_id": "32",
-			"upazila": "Badarganj",
-			
+        {
+            "division_id": "6",
+            "district_id": "32",
+            "upazila": "Badarganj",
             "unions": [
- Radhanagar,
- Gopinathpur,
- Madhupur,
- Qutubpur,
- Bishnapur,
-Kalupara,
-Lohanipara,
-Gopalpur,
-Damodarpur, 
-Ramnathpur
+                "Radhanagar",
+                "Gopinathpur",
+                "Madhupur",
+                "Qutubpur",
+                "Bishnapur",
+                "Kalupara",
+                "Lohanipara",
+                "Gopalpur",
+                "Damodarpur",
+                "Ramnathpur"
             ]
         }
-        
     ]
 }
