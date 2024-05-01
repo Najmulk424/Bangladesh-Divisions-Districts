@@ -9449,6 +9449,31 @@
 			"upazila": "Sylhet Sadar",
 			"postOffice": "Sylhet Cadet Col",
 			"postCode": "3101"
-		}
+		},
+		{
+        "upazila": "Sreemangal",
+        "postOffice": "Sreemangal UPO",
+        "postCode": "3210"
+    },
+    {
+        "upazila": "Sreemangal",
+        "postOffice": "Narayan Chara SO",
+        "postCode": "3211"
+    },
+    {
+        "upazila": "Sreemangal",
+        "postOffice": "Kalighat SO",
+        "postCode": "3212"
+    },
+    {
+        "upazila": "Sreemangal",
+        "postOffice": "Khejuri Chara SO",
+        "postCode": "3213"
+    },
+    {
+        "upazila": "Sreemangal",
+        "postOffice": "Satgaon SO",
+        "postCode": "3214"
+    }
 	]
 }
