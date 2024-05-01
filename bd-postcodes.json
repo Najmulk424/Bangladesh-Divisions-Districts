@@ -8572,8 +8572,15 @@
 			"division_id": "7",
 			"district_id": "51",
 			"upazila": "Baniachang",
-			"postOffice": "Jatrapasha",
-			"postCode": "3351"
+			"postOffice": "Baniachang",
+			"postCode": "3350"
+		},
+		{
+			"division_id": "7",
+			"district_id": "51",
+			"upazila": "Azmirigonj",
+			"postOffice": "Azmirigonj UPO",
+			"postCode": "3360"
 		},
 		{
 			"division_id": "7",
