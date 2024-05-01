@@ -9494,6 +9494,27 @@
         "upazila": "Barlekha",
         "postOffice": "Purba Sahbajpur SO",
         "postCode": "3253"
+    },
+{
+    "upazila": "Azmirigonj",
+    "postOffice": "Azmirigonj UPO",
+    "postCode": "3360"
+},
+		 {
+        "upazila": "Habiganj Sadar",
+        "postOffice": "Habigonj HO",
+        "postCode": "3300"
+    },
+    {
+        "upazila": "Habiganj Sadar",
+        "postOffice": "Shaistagonj SO",
+        "postCode": "3301"
+    },
+    {
+        "upazila": "Habiganj Sadar",
+        "postOffice": "Gopaya EDSO",
+        "postCode": "3302"
     }
+
 	]
 }
