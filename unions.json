@@ -1,8 +1,7 @@
 {
   "unions": [
     {
-      "division_id": "6",
-      "district_id": "32",
+    
       "upazila": "Mithapukur",
       "unions": [
         "Khoragach",
@@ -42,8 +41,7 @@
       ]
     },
     {
-      "division_id": "6",
-      "district_id": "32",
+     
       "upazila": "Gangachara",
       "unions": [
         "Radhanagar",
@@ -59,8 +57,7 @@
       ]
     },
     {
-      "division_id": "6",
-      "district_id": "32",
+      
       "upazila": "Kaunia",
       "unions": [
         "Sarai",
@@ -72,8 +69,7 @@
       ]
     },
     {
-      "division_id": "6",
-      "district_id": "32",
+     
       "upazila": "Rangpur Sadar",
       "unions": [
         "Mominpur",
@@ -91,8 +87,7 @@
       ]
     },
     {
-      "division_id": "6",
-      "district_id": "33",
+     
       "upazila": "Pirganj",
       "unions": [
         "Chaitrakol",
@@ -113,8 +108,7 @@
       ]
     },
     {
-      "division_id": "6",
-      "district_id": "32",
+    
       "upazila": "Pirgachha",
       "unions": [
         "Kalyani",
@@ -129,8 +123,7 @@
       ]
     },
     {
-      "division_id": "6",
-      "district_id": "32",
+     
       "upazila": "Taraganj",
       "unions": [
         "Kursha",
