@@ -63,12 +63,12 @@
 			"district_id": "32",
 			"upazila": "Kaunia",
             "unions": [
-              Sarai,
-            Balapara, 
-            Shahidbag, 
-            Haragach, 
-            Tepamadhupur, 
-            Kursha
+              "Sarai",
+            "Balapara", 
+            "Shahidbag", 
+            "Haragach", 
+            "Tepamadhupur", 
+            "Kursha"
             ]
         },
         {
@@ -76,7 +76,7 @@
 			"district_id": "32",
 			"upazila": "Rangpur Sadar",
             "unions": [
-            Mominpur, Haridebpur, Uttam, Parshuram, Tapodhan, Satgara, Rajendrapur, Sadyapuskarni, Chandanpat, Darshana, Tampat, Kholeya
+            "Mominpur", "Haridebpur", "Uttam", "Parshuram", "Tapodhan", "Satgara", "Rajendrapur", "Sadyapuskarni", "Chandanpat", "Darshana", "Tampat", "Kholeya"
             ]
         },
         {
@@ -84,7 +84,7 @@
 			"district_id": "33",
 			"upazila": "Pirganj",
             "unions": [
-            Chaitrakol, Venda Bari, Bardorgah, Kumedpur, Madankhali, Tukuria, Bar Alampur, Raipur, Pirganj, Shanerhat, Mithipur, Ramnathpur, Chatra, Kabilpur, Panchgachi
+            "Chaitrakol", "Venda Bari", "Bardorgah", "Kumedpur", "Madankhali", "Tukuria", "Bar Alampur", "Raipur", "Pirganj", "Shanerhat", "Mithipur", "Ramnathpur", "Chatra", "Kabilpur", "Panchgachi"
             ]
         },
         {
@@ -92,7 +92,7 @@
 			"district_id": "32",
 			"upazila": "Pirgachha",
             "unions": [
-             Kalyani, Parul, Itakumari, Chaola, Kandi, Pirgacha, Annadanagar, Tambulpur, Kaikuri
+             "Kalyani", "Parul", "Itakumari", "Chaola", "Kandi", "Pirgacha", "Annadanagar", "Tambulpur", "Kaikuri"
             ]
         },
           {
@@ -100,7 +100,7 @@
 			"district_id": "32",
 			"upazila": "Taraganj",
             "unions": [
-             Kursha, Alampur, Soyar, Ikorchali, Hariyarkuthi
+             "Kursha", "Alampur", "Soyar", "Ikorchali", "Hariyarkuthi"
             ]
         }
     ]
