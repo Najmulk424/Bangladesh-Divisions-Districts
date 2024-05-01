@@ -2439,8 +2439,14 @@
     {
       "id": "408",
       "district_id": "27",
-      "name": "Fulchhari",
+      "name": "Fulchari",
       "bn_name": "ফুলছড়ি"
+    },
+     {
+      "id": "408",
+      "district_id": "27",
+      "name": "Bonarpara",
+      "bn_name": "বোনারপাড়া"
     },
     {
       "id": "409",
