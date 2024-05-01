@@ -9474,6 +9474,26 @@
         "upazila": "Sreemangal",
         "postOffice": "Satgaon SO",
         "postCode": "3214"
+    },
+		{
+        "upazila": "Barlekha",
+        "postOffice": "Barlekha UPO",
+        "postCode": "3250"
+    },
+    {
+        "upazila": "Barlekha",
+        "postOffice": "Juri SO",
+        "postCode": "3251"
+    },
+    {
+        "upazila": "Barlekha",
+        "postOffice": "Dakshin Bag SO",
+        "postCode": "3252"
+    },
+    {
+        "upazila": "Barlekha",
+        "postOffice": "Purba Sahbajpur SO",
+        "postCode": "3253"
     }
 	]
 }
