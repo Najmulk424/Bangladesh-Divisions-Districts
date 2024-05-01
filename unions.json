@@ -40,6 +40,68 @@
                 "Damodarpur",
                 "Ramnathpur"
             ]
+        },
+        {
+            "division_id": "6",
+			"district_id": "32",
+			"upazila": "Gangachara",
+            "unions": [
+                "Radhanagar",
+                "Gopinathpur",
+                "Madhupur",
+                "Qutubpur",
+                "Bishnapur",
+                "Kalupara",
+                "Lohanipara",
+                "Gopalpur",
+                "Damodarpur",
+                "Ramnathpur"
+            ]
+        },
+        {
+            "division_id": "6",
+			"district_id": "32",
+			"upazila": "Kaunia",
+            "unions": [
+              Sarai,
+            Balapara, 
+            Shahidbag, 
+            Haragach, 
+            Tepamadhupur, 
+            Kursha
+            ]
+        },
+        {
+            "division_id": "6",
+			"district_id": "32",
+			"upazila": "Rangpur Sadar",
+            "unions": [
+            Mominpur, Haridebpur, Uttam, Parshuram, Tapodhan, Satgara, Rajendrapur, Sadyapuskarni, Chandanpat, Darshana, Tampat, Kholeya
+            ]
+        },
+        {
+            "division_id": "6",
+			"district_id": "33",
+			"upazila": "Pirganj",
+            "unions": [
+            Chaitrakol, Venda Bari, Bardorgah, Kumedpur, Madankhali, Tukuria, Bar Alampur, Raipur, Pirganj, Shanerhat, Mithipur, Ramnathpur, Chatra, Kabilpur, Panchgachi
+            ]
+        },
+        {
+           "division_id": "6",
+			"district_id": "32",
+			"upazila": "Pirgachha",
+            "unions": [
+             Kalyani, Parul, Itakumari, Chaola, Kandi, Pirgacha, Annadanagar, Tambulpur, Kaikuri
+            ]
+        },
+          {
+          "division_id": "6",
+			"district_id": "32",
+			"upazila": "Taraganj",
+            "unions": [
+             Kursha, Alampur, Soyar, Ikorchali, Hariyarkuthi
+            ]
         }
     ]
 }
