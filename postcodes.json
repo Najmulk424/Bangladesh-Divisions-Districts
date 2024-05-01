@@ -9513,7 +9513,52 @@
     "upazila": "Bishamsarpur",
     "postOffice": "Bishamsapur",
     "postCode": "3010"
-}
+},
+    {
+        "upazila": "Sadar",
+        "postOffice": "Gaiandha",
+        "postCode": "5700"
+    },
+    {
+        "upazila": "Sadullahpur",
+        "postOffice": "Sadullahpur",
+        "postCode": "5710"
+    },
+    {
+        "upazila": "Sadullahpur",
+        "postOffice": "Naldanga",
+        "postCode": "5711"
+    },
+    {
+        "upazila": "Sundargonj",
+        "postOffice": "Sundargonj",
+        "postCode": "5720"
+    },
+    {
+        "upazila": "Sundargonj",
+        "postOffice": "Bamandanga",
+        "postCode": "5721"
+    },
+    {
+        "upazila": "Bonarpara",
+        "postOffice": "Bonarpara",
+        "postCode": "5750"
+    },
+    {
+        "upazila": "Bonarpara",
+        "postOffice": "Saghata",
+        "postCode": "5751"
+    },
+    {
+        "upazila": "Fulchari",
+        "postOffice": "Fulchari",
+        "postCode": "5760"
+    },
+    {
+        "upazila": "Fulchari",
+        "postOffice": "Bharatkhali",
+        "postCode": "5761"
+    }
 
   ]
 }
